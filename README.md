@@ -14,8 +14,9 @@ jan/17 : SFO:0919pm-book-A1TSZT
 feb/19 : LAX: 09:00pm-booked-B0YX22
 feb/21 : SFO05:57pm-booked-B0YX22
 
-====
 
+
+====
 kp doc appointment SFO
 mr#: 15135794
 
@@ -25,6 +26,10 @@ radiology: 415-833-7627
 mri: 415-833-3345
 nephrology: 415-833-3828
 vascular surgery: 415-833-3383
+
+UCSF Kidney Transplant
+Sandy: 415-353-1371
+
 
 12/23
 9:00am - leonid yankulin
@@ -42,6 +47,15 @@ vascular surgery clinic
 PERIOPERATIVE MEDICINE CLINIC 
 SAN FRANCISCO MEDICAL CENTER 
 
-415-353-1371 Sandy UCSF Kidney Transplant
+3/30(wed) (phone call only)
+1240pm - HBS perioperative pre-op
 
+4/4(mon)
+left arm fistula surgery
+
+4/13(wed)
+10:40 - followup with dr. Okuhn
+
+
+====
 travel@ust-gobal.com
