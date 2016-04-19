@@ -25,11 +25,12 @@ LAX: 09:42pm-booked-FQSS9Z
 arp/17
 SFO: 05:46pm-booked-FQSS9Z
 
-Florida trip - booked-EOCVIE
-LAX:4/20-1040pm to Charlotte(CLT)
-CLT:4/21-0845am to
-apr/24 - booked-EOCVIE
-TLH: EOCVIE
+Florida trip - booked-EOCVIE (American Airlines)
+LAX:4/20-1040pm to Charlotte(CLT) 9
+CLT:4/21-0845am to LAX
+TLH:4/24-0407pm to Dallas Forthworth (DFW)
+DFW:4/24-0645pm to LAX
+LAX:4/24-1053pm to SFO (via United Airlines)
 
 
 
